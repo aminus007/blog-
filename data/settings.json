@@ -1,0 +1,22 @@
+{
+  "siteName": "TechBlog",
+  "logoText": "TechBlog",
+  "logoMonogram": "TB",
+  "primaryColor": "#2563eb",
+  "secondaryColor": "#1e40af",
+  "accentColor": "#3b82f6",
+  "backgroundColor": "#ffffff",
+  "textColor": "#1f2937",
+  "textLightColor": "#6b7280",
+  "heroTitle": "Latest Tech News & Insights",
+  "heroSubtitle": "Stay up to date with the latest technology news, tutorials, and insights from around the web.",
+  "footerText": "Your source for tech news and insights",
+  "database": {
+    "host": "localhost",
+    "port": "5432",
+    "username": "postgres",
+    "password": "",
+    "databaseName": "blog",
+    "connectionString": ""
+  }
+}
